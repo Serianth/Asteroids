@@ -1,0 +1,1 @@
+Following along with the bitdotdev guide to building asteroids with python and pygame
