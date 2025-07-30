@@ -1,1 +1,1 @@
-Following along with the bitdotdev guide to building asteroids with python and pygame
+Following along with the bootdotdev guide to building asteroids with python and pygame
